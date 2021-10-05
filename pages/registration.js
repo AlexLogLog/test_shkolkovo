@@ -10,7 +10,7 @@ export default function Registration() {
         mainApi
             .newUser(user)
             .then((res) => {
-                alert('Вы успешно зарегестрированы.')
+                alert('Вы успешно зарегистрированы.')
             })
             .catch(() => alert('Ошибка входа'))
     }
