@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "sasha",
+      "password": "qwe"
+    },
+    {
+      "id": 2,
+      "username": "sam",
+      "password": "wales"
+    },
+    {
+      "username": "sasha",
+      "password": "qw1e",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "username": "dasda",
+      "password": "asdqwd",
+      "id": 5
+    },
+    {
+      "username": "dasha",
+      "password": "qwe",
+      "id": 6
+    },
+    {
+      "username": "admin",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "username": "sasha123",
+      "password": "qwe",
+      "id": 8
+    },
+    {
+      "username": "sasha1",
+      "password": "123",
+      "id": 9
+    }
+  ]
+}
